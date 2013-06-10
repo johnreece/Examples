@@ -1,0 +1,16 @@
+<doc>
+	<branch name = "testing" hash="45hsu45d">
+		text,source
+	</branch>
+	<branch name="release01" hash="34ed54w1">
+		executable,msi,exe,zip
+		<sub-branch name="subrelease01">
+			xml,sgml,html
+		</sub-branch>
+	</branch>
+	<branch name = "release02" hash="445400f1">
+		this is a test
+	</branch>
+	<branch name="invalid" hash="a123456b">
+	</branch>
+</doc>

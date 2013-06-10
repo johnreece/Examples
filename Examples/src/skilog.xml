@@ -1,0 +1,480 @@
+<?xml version="1.0"?>
+
+<resultset statement="select * from skiing.skilog
+" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <row>
+	<field name="date">2007-12-29</field>
+	<field name="area">tdxc</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes">Lions Leap - Sundance </field>
+  </row>
+
+  <row>
+	<field name="date">2007-12-30</field>
+	<field name="area">tdxc</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes">Euer Valley slog</field>
+  </row>
+
+  <row>
+	<field name="date">2008-01-01</field>
+	<field name="area">tddh</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes"></field>
+  </row>
+
+  <row>
+	<field name="date">2008-01-02</field>
+	<field name="area">tddh</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes"></field>
+  </row>
+
+  <row>
+	<field name="date">2008-01-07</field>
+	<field name="area">squaw</field>
+	<field name="skis">alpine</field>
+	<field name="notes">Shirley Lake 6-pak unreliable</field>
+  </row>
+
+  <row>
+	<field name="date">2008-01-10</field>
+	<field name="area">squaw</field>
+	<field name="skis">alpine</field>
+	<field name="notes">drizzly</field>
+  </row>
+
+  <row>
+	<field name="date">2008-01-14</field>
+	<field name="area">tddh</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes"></field>
+  </row>
+
+  <row>
+	<field name="date">2008-01-13</field>
+	<field name="area">tddh</field>
+	<field name="skis">3pin</field>
+	<field name="notes"></field>
+  </row>
+
+  <row>
+	<field name="date">2008-01-16</field>
+	<field name="area">tddh-tdxc</field>
+	<field name="skis">3pin</field>
+	<field name="notes">High Route #1 - awesome!</field>
+  </row>
+
+  <row>
+	<field name="date">2008-01-17</field>
+	<field name="area">squaw</field>
+	<field name="skis">telemark</field>
+	<field name="notes">Sore left knee</field>
+  </row>
+
+  <row>
+	<field name="date">2008-01-19</field>
+	<field name="area">tddh-tdxc</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes">Crazy Horse Loop via Sundance Hut</field>
+  </row>
+
+  <row>
+	<field name="date">2008-01-21</field>
+	<field name="area">tdxc</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes">Sundance loop</field>
+  </row>
+
+  <row>
+	<field name="date">2008-01-22</field>
+	<field name="area">squaw</field>
+	<field name="skis">alpine</field>
+	<field name="notes">Powder,  skied end-to-end</field>
+  </row>
+
+  <row>
+	<field name="date">2008-01-27</field>
+	<field name="area">tddh-tdxc</field>
+	<field name="skis">telemark</field>
+	<field name="notes">New tele bindings, skied NNN-BC at TDXC</field>
+  </row>
+
+  <row>
+	<field name="date">2008-02-16</field>
+	<field name="area">tddh-tdxc</field>
+	<field name="skis">3pin</field>
+	<field name="notes">TDDH-Hawks-Upper I'm OK</field>
+  </row>
+
+  <row>
+	<field name="date">2008-01-30</field>
+	<field name="area">squaw</field>
+	<field name="skis">alpine</field>
+	<field name="notes">Epic powder day</field>
+  </row>
+
+  <row>
+	<field name="date">2008-01-31</field>
+	<field name="area">squaw</field>
+	<field name="skis">alpine</field>
+	<field name="notes">Curtailed - winds</field>
+  </row>
+
+  <row>
+	<field name="date">2008-02-04</field>
+	<field name="area">squaw</field>
+	<field name="skis">alpine</field>
+	<field name="notes">Epic powder day</field>
+  </row>
+
+  <row>
+	<field name="date">2008-02-05</field>
+	<field name="area">squaw</field>
+	<field name="skis">alpine</field>
+	<field name="notes">Silverado 1st time</field>
+  </row>
+
+  <row>
+	<field name="date">2008-02-07</field>
+	<field name="area">tddh</field>
+	<field name="skis">3pin</field>
+	<field name="notes">Windy</field>
+  </row>
+
+  <row>
+	<field name="date">2008-02-08</field>
+	<field name="area">tddh-tdxc</field>
+	<field name="skis">3pin</field>
+	<field name="notes">TDDH-Hawks Peak-Drifter loop</field>
+  </row>
+
+  <row>
+	<field name="date">2008-02-09</field>
+	<field name="area">other</field>
+	<field name="skis">other</field>
+	<field name="notes">Snowmobile, Brockway-Mt. Watson</field>
+  </row>
+
+  <row>
+	<field name="date">2008-02-11</field>
+	<field name="area">other</field>
+	<field name="skis">other</field>
+	<field name="notes">Snowmobile, Spooner Summit-Genoa Peak</field>
+  </row>
+
+  <row>
+	<field name="date">2008-02-18</field>
+	<field name="area">tddh-tdxc</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes">TD Hi Route to Drifter and return</field>
+  </row>
+
+  <row>
+	<field name="date">2008-02-19</field>
+	<field name="area">tdxc</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes">Explored home range</field>
+  </row>
+
+  <row>
+	<field name="date">2008-02-21</field>
+	<field name="area">squaw</field>
+	<field name="skis">alpine</field>
+	<field name="notes">Squaw Creek-&gt;Headwall, curtailed due to whiteout</field>
+  </row>
+
+  <row>
+	<field name="date">2008-02-22</field>
+	<field name="area">tddh</field>
+	<field name="skis">telemark</field>
+	<field name="notes"></field>
+  </row>
+
+  <row>
+	<field name="date">2008-02-25</field>
+	<field name="area">squaw</field>
+	<field name="skis">alpine</field>
+	<field name="notes">Post-powder day</field>
+  </row>
+
+  <row>
+	<field name="date">2008-02-26</field>
+	<field name="area">squaw</field>
+	<field name="skis">alpine</field>
+	<field name="notes">Warming up fast</field>
+  </row>
+
+  <row>
+	<field name="date">2008-02-27</field>
+	<field name="area">squaw</field>
+	<field name="skis">alpine</field>
+	<field name="notes">Loads of foreign tour groups</field>
+  </row>
+
+  <row>
+	<field name="date">2008-03-01</field>
+	<field name="area">other</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes">Tahoe XC to Fiberboard Freeway</field>
+  </row>
+
+  <row>
+	<field name="date">2008-03-04</field>
+	<field name="area">tdxc</field>
+	<field name="skis">3pin</field>
+	<field name="notes">Sundance-I'm OK Euer OK - Firewalker retur</field>
+  </row>
+
+  <row>
+	<field name="date">2008-03-06</field>
+	<field name="area">squaw</field>
+	<field name="skis">telemark</field>
+	<field name="notes">Curtailed - too cold and icy to telemark</field>
+  </row>
+
+  <row>
+	<field name="date">2008-03-07</field>
+	<field name="area">squaw</field>
+	<field name="skis">alpine</field>
+	<field name="notes">Squaw Creek -&gt; Silverado, end-to-end</field>
+  </row>
+
+  <row>
+	<field name="date">2008-03-11</field>
+	<field name="area">tddh-tdxc</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes">to Sundance</field>
+  </row>
+
+  <row>
+	<field name="date">2008-03-17</field>
+	<field name="area">tddh</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes"></field>
+  </row>
+
+  <row>
+	<field name="date">2003-03-18</field>
+	<field name="area">tddh-tdxc</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes">2.0 mile to Far Side, 5.15 loop, 1 hr, 20 min total</field>
+  </row>
+
+  <row>
+	<field name="date">2008-03-23</field>
+	<field name="area">tdxc</field>
+	<field name="skis">3pin</field>
+	<field name="notes">Hawk's Peak, Upper I'm OK Euer OK</field>
+  </row>
+
+  <row>
+	<field name="date">2008-04-14</field>
+	<field name="area">tddh</field>
+	<field name="skis">3pin</field>
+	<field name="notes">Short, slushy spring day.   Last day for TDDH</field>
+  </row>
+
+  <row>
+	<field name="date">2008-04-16</field>
+	<field name="area">squaw</field>
+	<field name="skis">alpine</field>
+	<field name="notes">Froze, had to return to car for windbreaker</field>
+  </row>
+
+  <row>
+	<field name="date">2008-04-17</field>
+	<field name="area">squaw</field>
+	<field name="skis">alpine</field>
+	<field name="notes">Terrific corn snow experience!</field>
+  </row>
+
+  <row>
+	<field name="date">2008-04-24</field>
+	<field name="area">squaw</field>
+	<field name="skis">alpine</field>
+	<field name="notes">Primo spring conditions</field>
+  </row>
+
+  <row>
+	<field name="date">2008-04-25</field>
+	<field name="area">squaw</field>
+	<field name="skis">alpine</field>
+	<field name="notes">Primo spring conditions</field>
+  </row>
+
+  <row>
+	<field name="date">2009-01-15</field>
+	<field name="area">alpine</field>
+	<field name="skis">alpine</field>
+	<field name="notes">None</field>
+  </row>
+
+  <row>
+	<field name="date">2009-01-16</field>
+	<field name="area">alpine</field>
+	<field name="skis">alpine</field>
+	<field name="notes">None</field>
+  </row>
+
+  <row>
+	<field name="date">2009-01-19</field>
+	<field name="area">alpine</field>
+	<field name="skis">alpine</field>
+	<field name="notes">None</field>
+  </row>
+
+  <row>
+	<field name="date">2009-01-23</field>
+	<field name="area">tdxc</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes">Lions Leap - Sundance</field>
+  </row>
+
+  <row>
+	<field name="date">2009-01-25</field>
+	<field name="area">tdxc</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes">Sundance - Rust Never Sleeps Loop, 8km</field>
+  </row>
+
+  <row>
+	<field name="date">2008-12-04</field>
+	<field name="area">tdxc</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes">Driving range!</field>
+  </row>
+
+  <row>
+	<field name="date">2008-12-05</field>
+	<field name="area">tdxc</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes">Negro Canyon Overlook</field>
+  </row>
+
+  <row>
+	<field name="date">2008-12-06</field>
+	<field name="area">other</field>
+	<field name="skis">alpine</field>
+	<field name="notes">Sugar Bowl - Mt Lincoln and Disney open!</field>
+  </row>
+
+  <row>
+	<field name="date">2008-12-08</field>
+	<field name="area">mammoth</field>
+	<field name="skis">alpine</field>
+	<field name="notes">Top to bottom via Road Runner</field>
+  </row>
+
+  <row>
+	<field name="date">2008-12-11</field>
+	<field name="area">alpine</field>
+	<field name="skis">3pin</field>
+	<field name="notes">2 beginner lifts</field>
+  </row>
+
+  <row>
+	<field name="date">2009-01-04</field>
+	<field name="area">tddh-tdxc</field>
+	<field name="skis">3pin</field>
+	<field name="notes">Mini High Route to Drifter</field>
+  </row>
+
+  <row>
+	<field name="date">2009-01-06</field>
+	<field name="area">tddh-tdxc</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes">To Sundance Hut</field>
+  </row>
+
+  <row>
+	<field name="date">2009-01-07</field>
+	<field name="area">tddh-tdxc</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes">Hi route to Drifter and Hawks Peak</field>
+  </row>
+
+  <row>
+	<field name="date">2009-01-09</field>
+	<field name="area">tddh</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes">Practice skinny ski turns</field>
+  </row>
+
+  <row>
+	<field name="date">2009-01-10</field>
+	<field name="area">tddh</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes">Practice skinny ski turns</field>
+  </row>
+
+  <row>
+	<field name="date">2009-01-29</field>
+	<field name="area">alpine</field>
+	<field name="skis">alpine</field>
+	<field name="notes">Alpine skis</field>
+  </row>
+
+  <row>
+	<field name="date">2009-01-30</field>
+	<field name="area">alpine</field>
+	<field name="skis">alpine</field>
+	<field name="notes">Lakeview not open, even on busy Friday</field>
+  </row>
+
+  <row>
+	<field name="date">2009-01-31</field>
+	<field name="area">tdxc</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes">Euer Valley to start of Crabtree Canyon</field>
+  </row>
+
+  <row>
+	<field name="date">2009-02-02</field>
+	<field name="area">tddh-tdxc</field>
+	<field name="skis">alpine</field>
+	<field name="notes">TDDH over to Sundance Hut</field>
+  </row>
+
+  <row>
+	<field name="date">2009-02-06</field>
+	<field name="area">alpine</field>
+	<field name="skis">alpine</field>
+	<field name="notes">High Traverse</field>
+  </row>
+
+  <row>
+	<field name="date">2009-02-09</field>
+	<field name="area">alpine</field>
+	<field name="skis">alpine</field>
+	<field name="notes">Fresh pow</field>
+  </row>
+
+  <row>
+	<field name="date">2009-02-07</field>
+	<field name="area">tddh</field>
+	<field name="skis">3pin</field>
+	<field name="notes">None</field>
+  </row>
+
+  <row>
+	<field name="date">2009-02-10</field>
+	<field name="area">tddh</field>
+	<field name="skis">alpine</field>
+	<field name="notes">1st tracks, even before Ski Patrol</field>
+  </row>
+
+  <row>
+	<field name="date">2009-02-12</field>
+	<field name="area">tdxc</field>
+	<field name="skis">nnn-bc</field>
+	<field name="notes">Boot Scoot to Sundance</field>
+  </row>
+
+  <row>
+	<field name="date">2009-02-18</field>
+	<field name="area">tddh</field>
+	<field name="skis">3pin</field>
+	<field name="notes">Powder too deep!   </field>
+  </row>
+</resultset>
